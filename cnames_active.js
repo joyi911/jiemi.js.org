@@ -280,6 +280,7 @@ var cnames_active = {
   "awesomefeed": "arojunior.github.io/awesome-feed",
   "awesomehub": "awesomehub.netlify.app",
   "awk": "42ua.github.io/awk",
+  "jiemi":"joyi911.github.io/jiemi",
   "awoo": "awoojs.github.io/website",
   "aws-auth": "iamarkadyt.github.io/aws-auth",
   "axii": "ariesate.github.io/axii-site",
